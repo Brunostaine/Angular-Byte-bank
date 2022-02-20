@@ -11,10 +11,10 @@ export class NovaTransferenciaComponent {
   valor: number;
   destino: number;
 
-  transferir(){
-    console.log('Solicitada nova transferencia')
-    const valorEmitir = {valor: this.valor, destino: this.destino}
-    this.aoTransferir.emit(valorEmitir)
+  transferir() {
+    console.log('Solicitada nova transferência');
+    const valorEmitir = { valor: this.valor, destino: this.destino };
+    this.aoTransferir.emit(valorEmitir);
 
     this.limparCampos();
   }
