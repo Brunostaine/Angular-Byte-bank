@@ -1,27 +1,50 @@
-# ByteBank
+<h1 align="center"> Byte Bank </h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
+ 
+![byte-bank](https://user-images.githubusercontent.com/87622645/157893646-8b014fbe-20af-4c06-8704-ab5e4b6e4577.png)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## INDICE
 
-## Code scaffolding
+* [Título](#titulo)
+* [Badges](#badges)
+* [Status do Projeto](#status-do-Projeto)
+* [Imagem de capa](#Imagem-de-capa)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Autor](#Autor)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Descrição do projeto
 
-## Build
+- Projeto criado no curso da Alura, nele você inputa os dados de deposito e conta corrente quando clica em transferir os dados são carregados em um banco de dados criado internamente.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## :hammer: Funcionalidades do projeto
 
-## Running unit tests
+- `Click` : Deposita dinheiro na conta desejada e envia para o banco de dados interno
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 📁 Acesso ao projeto
 
-## Running end-to-end tests
+**Acesso ao código do projeto**<br>
+https://github.com/Brunostaine/Byte-bank
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+**🛠️ Abrir e rodar o projeto**<br>
+https://byte-bank-brunostaine.netlify.app/extrato
 
-## Further help
+## Tecnologias utilizadas
+* HTML
+* CSS
+* Javascript
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Framework
+* Angular
+
+## Autor
+
+<img src="https://user-images.githubusercontent.com/87622645/157755137-8d22a951-d323-4c33-814e-c0351ebefafe.png" width=115><br>
+<sub>Bruno Staine Caires de Oliveira</sub><br>
+https://github.com/Brunostaine 
